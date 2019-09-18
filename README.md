@@ -1,4 +1,6 @@
 # VuePapaParse
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpankazj%2Fvue-papa-parse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpankazj%2Fvue-papa-parse?ref=badge_shield)
+
 
 > A simple wrapper for for the original PapaParse built for VueJs
 
@@ -159,3 +161,7 @@ export default {
   4,5,6,7
 */
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpankazj%2Fvue-papa-parse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpankazj%2Fvue-papa-parse?ref=badge_large)
